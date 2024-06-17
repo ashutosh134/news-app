@@ -1,0 +1,18 @@
+#themeBtn{
+    position: fixed;
+    bottom:20px;
+    left:20px;
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    border-radius: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.carousel-item img{
+   height: 50vh;
+   object-fit:fill;
+}
